@@ -1,0 +1,15 @@
+{
+  "name": "mcBootstrap",
+  "description": "The client side bootstrap for miniature cyril",
+  "author": "Ada Edwards <ladyada@ladyadaking.com>",
+  "version": "0.0.1-0",
+  "dependencies": {
+  },
+  "readmeFilename": "README.md",
+  "main": "Storage.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdaRoseEdwards/StorageWrapper.git"
+  },
+  "license": "GNU General Public License"
+}
