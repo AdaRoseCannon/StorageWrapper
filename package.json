@@ -2,9 +2,8 @@
   "name": "StorageWrapper",
   "description": "The client side bootstrap for miniature cyril",
   "author": "Ada Edwards <ladyada@ladyadaking.com>",
-  "version": "0.0.1-0",
-  "dependencies": {
-  },
+  "version": "0.0.1-1",
+  "dependencies": {},
   "readmeFilename": "README.md",
   "main": "Storage.js",
   "repository": {
