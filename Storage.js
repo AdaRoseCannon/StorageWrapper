@@ -44,4 +44,4 @@ function Storage() {
 	return new _Storage;
 }
 
-var storage = Storage();
+window['storage'] = Storage();

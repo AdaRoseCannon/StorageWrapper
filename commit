@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git add .
+git commit -am "version up"
+npm version build
+git push origin master --tags
